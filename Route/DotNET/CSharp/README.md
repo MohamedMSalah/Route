@@ -1,3 +1,3 @@
 # C#
 
-[Assignment 01](Assignment01/README.md)
+[Assignment 01](Assignment1/README.md)
