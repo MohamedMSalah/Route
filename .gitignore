@@ -1,0 +1,46 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET Build Outputs
+**/bin/
+**/obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Test Results
+TestResults/
+*.trx
+coverage/
+coverage.*
+
+# Logs
+*.log
+logs/
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+appsettings.Development.local.json
+secrets.json
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
